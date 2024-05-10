@@ -24,6 +24,7 @@ In this repository you will find all project files for a project I had for the c
 ### Files
 
 1. `main.ipynb` contains all the code for the models
+2. `main.py` contains the code for presentation's introduction-simulation
 
 ### Models
 
