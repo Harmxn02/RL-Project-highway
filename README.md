@@ -1,12 +1,23 @@
 # RL Project: Highway
 
+## Assignment Tasks
+
+1. Work out explanations as to why I chose certain algorithms
+2. Compare the algorithms (number of episodes, time to train)
+3. Choose the best algorithm
+4. Make a presentation to introduce the project
+    - Explain environment
+    - Chosen algorithmes and why
+    - Comparison between algorithms
+    - Show the result (random episodes versus the trained result)
+
 ## Assignment context
 
 In this project I will train an agent to navigate on a highway, and hopefully avoid crashing. The OpenAI Gymnasium environment is called [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) and is made by [Farama-Foundation](https://github.com/Farama-Foundation/).
 
 ## Contents of this repository
 
-In this repository you will find all of the .ipynb notebooks and datasets for a project I had for the course **Reinforcement Learning**.
+In this repository you will find all project files for a project I had for the course **Reinforcement Learning**.
 
 ## Folder structure
 
