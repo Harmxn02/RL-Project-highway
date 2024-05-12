@@ -49,7 +49,11 @@ In this repository you will find all project files for a project I had for the c
 
 ### Presentation Files
 
-`/presentation/` contains the notebook used for making plots (used in the presentation)
+`/presentation/` contains the files used for the presentation
+
+- `data.csv` contains the data from the evaluations of the 3 models
+- `model_comparison.csv` contains the plots used in the presentation
+- `final_result.py` contains the demo-environment code to show during the presentation
 
 &nbsp;
 
@@ -62,6 +66,6 @@ In this repository you will find all project files for a project I had for the c
 | Fri, 10 May | 2h11       | 17h09      | 19h20    |
 | Sun, 12 May | 2h15       | 15h15      | 17h30    |
 | Sun, 12 May | 0h15       | 18h55      | 19h10    |
-| Sun, 12 May | 0h35       | 20h55      | 22h00    |
+| Sun, 12 May | 2h45       | 20h55      | 23h40    |
 
-### **TOTAL**: 5h46
+### **TOTAL**: 7h26
