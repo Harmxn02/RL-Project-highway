@@ -28,21 +28,28 @@ In this repository you will find all project files for a project I had for the c
 
 ### Models
 
-`/models/` contains all the models (saved as `.keras`)
+`/models/` contains all the models
 
-1. `~/dqn_model.keras` contains the DQN model
-2. `~/dqn_sb3_model.keras` contains the DQN model made with `stable_baselines3`
-3. `~/ppo_sb3_model.keras` contains the PPO model made with `stable_baselines3`
+1. `~/dqn_sb3_model.keras` contains the DQN model (.keras)
+2. `~/ppo_sb3_model.keras` contains the PPO model (.keras)
+3. `~/a2c_sb3_model.keras` contains the PPO model (.keras)
+4. `~/dqn_sb3_model.zip` contains the DQN model (stable baselines3's default format)
+5. `~/ppo_sb3_model.zip` contains the PPO model (stable baselines3's default format)
+6. `~/a2c_sb3_model.zip` contains the PPO model (stable baselines3's default format)
 
 ### Training Videos
 
 `/videos/` contains all the models (saved as `.mp4`)
 
-1. `~/DQN/` contains the training videos for the DQN model
-2. `~/DQN-stable-baselines3/` contains the training videos for the DQN model made with `stable_baselines3`
-3. `~/PPO-stable-baselines3` contains the training videos for the PPO model made with `stable_baselines3`
+1. `~/DQN-stable-baselines3/` contains the training videos for the DQN model
+2. `~/PPO-stable-baselines3` contains the training videos for the PPO model
+3. `~/A2C-stable-baselines3` contains the training videos for the A2C model
 
 **BONUS**. `~/random` contains the training video where the agent randomly picks actions from the action space. Spoiler, it's terribe :)
+
+### Presentation Files
+
+`/presentation/` contains the notebook used for making plots (used in the presentation)
 
 &nbsp;
 
@@ -50,10 +57,11 @@ In this repository you will find all project files for a project I had for the c
 
 ### Time spent on this project
 
-| Day           | Time spent | Start time | End time |
-| ------------- | ---------- | ---------- | -------- |
-| Fri, 10 May   | 2h11       | 17h09      | 19h20    |
-| Sun, 12 May   | XhXX       | 15h15      | 17h30    |
-| Sun, 12 May   | 0h15       | 18h55      | 19h10    |
+| Day         | Time spent | Start time | End time |
+| ----------- | ---------- | ---------- | -------- |
+| Fri, 10 May | 2h11       | 17h09      | 19h20    |
+| Sun, 12 May | 2h15       | 15h15      | 17h30    |
+| Sun, 12 May | 0h15       | 18h55      | 19h10    |
+| Sun, 12 May | 0h35       | 20h55      | 22h00    |
 
-### **TOTAL**: 2h11
+### **TOTAL**: 5h46
