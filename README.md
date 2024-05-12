@@ -53,5 +53,7 @@ In this repository you will find all project files for a project I had for the c
 | Day           | Time spent | Start time | End time |
 | ------------- | ---------- | ---------- | -------- |
 | Fri, 10 May   | 2h11       | 17h09      | 19h20    |
+| Sun, 12 May   | XhXX       | 15h15      | 17h30    |
+| Sun, 12 May   | 0h15       | 18h55      | 19h10    |
 
 ### **TOTAL**: 2h11
