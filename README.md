@@ -51,9 +51,9 @@ In this repository you will find all project files for a project I had for the c
 
 `/presentation/` contains the files used for the presentation
 
-- `data.csv` contains the data from the evaluations of the 3 models
-- `model_comparison.csv` contains the plots used in the presentation
-- `final_result.py` contains the demo-environment code to show during the presentation
+- `~/data.csv` contains the data from the evaluations of the 3 models
+- `~/model_comparison.csv` contains the plots used in the presentation
+- `~/final_result.py` contains the demo-environment code to show during the presentation
 
 &nbsp;
 
